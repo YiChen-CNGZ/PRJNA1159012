@@ -1,2 +1,3 @@
 # PRJNA1159012
 This project is the source code of 16 S rRNA, and sequencing is completed by a cloud platform (www.majobio.com). It can be used for data learning or replication, but cannot be used for commercial purposes.
+The project name is NCBI's SRA project with the same name, and NCBI has already uploaded the original sequence. In short, this project conducted a high oxygen experiment, with the species being turbot and an initial weight of around 6g. For grouping, LF is the low oxygen group, NF is the normoxic group, HF is the high oxygen group, and PF is the unrelated group (from other experiments)
