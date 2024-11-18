@@ -1,0 +1,5 @@
+注意事项：
+
+1.HTML_report_workflow压缩包为精简版流程分析报告，包含html文件和报告素材文件夹（files，library），html文件可使用浏览器打开查看各分析结果报告，报告素材文件夹不能删除，且必须和html文件在同一个路径下，否则结果图展示不完全
+
+2.整个workflow_results文件夹为完整版流程分析报告，包含HTML_report_workflow压缩包及各个分析模块结果数据图表，HTML_report_workflow压缩包解压后必须放在原路径即workflow_results文件夹下，否则打开html点击各个分析结果存放目录路径，无法跳转打开对应结果文件
